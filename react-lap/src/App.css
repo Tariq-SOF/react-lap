@@ -1,0 +1,22 @@
+#root {
+  max-width: 1280px;
+  margin: 0 px;
+  padding: 2rem;
+  text-align: center;
+  background-color: #242424;
+  color: white;
+  
+}
+.allImployy{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+ 
+}
+.program{
+  width: 25%;
+  height:50vh;
+  background-color: #D0D0D0;
+  color: #242424;
+  margin-left: 20px;
+}
